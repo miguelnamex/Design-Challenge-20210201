@@ -100,6 +100,7 @@ SHORT LINK <br />
 http://bit.ly/3Iq13Gj
 
 Low fidelity wireframe #1 (papel e caneta).
+![wireframe_1](https://user-images.githubusercontent.com/121637785/216309209-276c7573-6eb8-4a2e-b614-55d83c6d825f.jpg)
 
 Tela 1 (1440px_ 8-point grid)
 ![1440px_8-point-grid](https://user-images.githubusercontent.com/121637785/210473326-17b63271-2aea-4c01-9495-b65b1ccdbbff.png)
