@@ -99,6 +99,8 @@ https://www.figma.com/file/aln42s52W1ebdhfoP8pNQ0/Design-Challenge---Dashboard-D
 SHORT LINK <br />
 http://bit.ly/3Iq13Gj
 
+Low fidelity wireframe #1 (papel e caneta).
+
 Tela 1 (1440px_ 8-point grid)
 ![1440px_8-point-grid](https://user-images.githubusercontent.com/121637785/210473326-17b63271-2aea-4c01-9495-b65b1ccdbbff.png)
 
